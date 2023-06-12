@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c04c850569dd5df5",
+        "id": "ce0cea21b604db2f",
         "type": "tabs",
         "children": [
           {
-            "id": "6dbe31f7fd9b6d28",
+            "id": "bb5b716530472796",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "d7cf0c13af618dc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/Learning Road Map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b1258baa3c706eaf",
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Learning Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Learning Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AWS/Learning Road Map.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,28 +147,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7cf0c13af618dc8",
+  "active": "bb5b716530472796",
   "lastOpenFiles": [
-    "AWS/Learning Road Map.md",
-    "AWS",
+    "Web Dev/React JS/React JS Tutorial.md",
+    "AWS/AWS Learning Road Map (AWS Solutions Architect).md",
+    "AWS/EC2/What is EC2.md",
+    "Web Dev/React JS",
+    "AWS/EC2",
+    "Untitled",
     "Red Hat Enterprise Linux/Red Hat Enterprise Linux.md",
+    "Linux/Installing tools and packages/How to install clang.md",
+    "Linux/Installing tools and packages",
+    "Docker",
+    "AWS",
     "Lang Chain/What is LangChain.md",
     "Red Hat Enterprise Linux",
     "Mozilla Project/Project Description.md",
     "Lang Chain",
     "Mozilla Project",
-    "Linux/How to install clang.md",
     "Linux",
     "Web Dev/What is pnpm and how to use it.md",
     "Web Dev/What is vite and why should you use it.md",
-    "Vite",
-    "Web Dev",
     "2023-06-06.md",
     "2023-W23.md",
     "README.md",
     "Github/How to setup Git.md",
     "Github/How  to add SSH keys to Github.md",
-    "Excalidraw/Sample Drawing.md",
-    "Excalidraw"
+    "Excalidraw/Sample Drawing.md"
   ]
 }
