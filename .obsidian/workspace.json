@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "c4352638168a449f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c04c850569dd5df5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dbe31f7fd9b6d28",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7cf0c13af618dc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/Learning Road Map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe3dec98f79f59ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "9984efc2c8c2d1c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b48b4220ce275a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45f456dfd5c179af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2de786434126816",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b1258baa3c706eaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec30e52dbdfeaf65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cffc89f888bf525",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS/Learning Road Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a466e8f65f7b737d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS/Learning Road Map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd444b8eb9edb667",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5a75f0215b60cf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS/Learning Road Map.md"
+              }
+            }
+          },
+          {
+            "id": "6e2ff018ac737e9e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "d7cf0c13af618dc8",
+  "lastOpenFiles": [
+    "AWS/Learning Road Map.md",
+    "AWS",
+    "Red Hat Enterprise Linux/Red Hat Enterprise Linux.md",
+    "Lang Chain/What is LangChain.md",
+    "Red Hat Enterprise Linux",
+    "Mozilla Project/Project Description.md",
+    "Lang Chain",
+    "Mozilla Project",
+    "Linux/How to install clang.md",
+    "Linux",
+    "Web Dev/What is pnpm and how to use it.md",
+    "Web Dev/What is vite and why should you use it.md",
+    "Vite",
+    "Web Dev",
+    "2023-06-06.md",
+    "2023-W23.md",
+    "README.md",
+    "Github/How to setup Git.md",
+    "Github/How  to add SSH keys to Github.md",
+    "Excalidraw/Sample Drawing.md",
+    "Excalidraw"
+  ]
+}
