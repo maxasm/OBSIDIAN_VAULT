@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce0cea21b604db2f",
+        "id": "6886c8447d28d2a0",
         "type": "tabs",
         "children": [
           {
-            "id": "bb5b716530472796",
+            "id": "484da074c16b3c24",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,32 +147,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb5b716530472796",
+  "active": "484da074c16b3c24",
   "lastOpenFiles": [
+    "Web Dev/General/What is pnpm and how to use it.md",
+    "Web Dev/General/What is vite and why should you use it.md",
+    "Github/General/How to setup Git.md",
+    "Linux/Shell Scripting",
+    "Go Lang",
+    "Github/CI-CD",
+    "Github/General",
+    "Web Dev/General",
+    "Web Dev/Mongo DB",
+    "Web Dev/Go Lang",
+    "Web Dev/Strapi",
     "Web Dev/React JS/React JS Tutorial.md",
     "AWS/AWS Learning Road Map (AWS Solutions Architect).md",
     "AWS/EC2/What is EC2.md",
     "Web Dev/React JS",
     "AWS/EC2",
-    "Untitled",
     "Red Hat Enterprise Linux/Red Hat Enterprise Linux.md",
     "Linux/Installing tools and packages/How to install clang.md",
-    "Linux/Installing tools and packages",
-    "Docker",
-    "AWS",
     "Lang Chain/What is LangChain.md",
-    "Red Hat Enterprise Linux",
     "Mozilla Project/Project Description.md",
-    "Lang Chain",
-    "Mozilla Project",
-    "Linux",
-    "Web Dev/What is pnpm and how to use it.md",
-    "Web Dev/What is vite and why should you use it.md",
     "2023-06-06.md",
     "2023-W23.md",
     "README.md",
-    "Github/How to setup Git.md",
-    "Github/How  to add SSH keys to Github.md",
+    "Github/General/How  to add SSH keys to Github.md",
     "Excalidraw/Sample Drawing.md"
   ]
 }
