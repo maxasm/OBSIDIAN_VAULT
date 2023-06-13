@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6886c8447d28d2a0",
+        "id": "a615c7b2e74b746f",
         "type": "tabs",
         "children": [
           {
-            "id": "484da074c16b3c24",
+            "id": "c2674e4bb0fec569",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web Dev/React JS/React JS Tutorial.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b1258baa3c706eaf",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Dev/React JS/React JS Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Dev/React JS/React JS Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web Dev/React JS/React JS Tutorial.md"
+              }
             }
           },
           {
@@ -147,8 +156,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "484da074c16b3c24",
+  "active": "c2674e4bb0fec569",
   "lastOpenFiles": [
+    "Web Dev/Strapi/STRAPI Tutorial.md",
     "Web Dev/General/What is pnpm and how to use it.md",
     "Web Dev/General/What is vite and why should you use it.md",
     "Github/General/How to setup Git.md",

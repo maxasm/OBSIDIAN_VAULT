@@ -11,7 +11,7 @@ Topics:
 - Databases (Document based database)
 - CLI
 - Go Lang SDK
-
+- AWS Lightsail
 
 
 
