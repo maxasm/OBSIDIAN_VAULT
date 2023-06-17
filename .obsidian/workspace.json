@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a615c7b2e74b746f",
+        "id": "8582f40333ce8248",
         "type": "tabs",
         "children": [
           {
-            "id": "c2674e4bb0fec569",
+            "id": "bf8eeb4e5b76bed2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Dev/React JS/React JS Tutorial.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b1258baa3c706eaf",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Dev/React JS/React JS Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Dev/React JS/React JS Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Dev/React JS/React JS Tutorial.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +147,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2674e4bb0fec569",
+  "active": "49b48b4220ce275a",
   "lastOpenFiles": [
+    "Web Dev/React JS/Forms.md",
+    "Web Dev/React JS/Router/React Router.md",
+    "Rewrite/Info.md",
+    "Web Dev/React JS/Router",
+    "Excalidraw/Drawing 2023-06-15 20.27.07.excalidraw.md",
+    "Excalidraw/Lib",
+    "Rewrite",
+    "Web Dev/React JS/React JS Tutorial.md",
+    "What is async and await.md",
+    "Web Dev/async_await",
+    "Linux/Interesting topics.md",
+    "Linux/Systemd/What is Systemd.md",
+    "Linux/Systemd",
+    "Web Dev/React JS/Thinking in React (Things you could miss).md",
     "Web Dev/Strapi/STRAPI Tutorial.md",
     "Web Dev/General/What is pnpm and how to use it.md",
     "Web Dev/General/What is vite and why should you use it.md",
@@ -167,14 +172,8 @@
     "Github/CI-CD",
     "Github/General",
     "Web Dev/General",
-    "Web Dev/Mongo DB",
-    "Web Dev/Go Lang",
-    "Web Dev/Strapi",
-    "Web Dev/React JS/React JS Tutorial.md",
     "AWS/AWS Learning Road Map (AWS Solutions Architect).md",
     "AWS/EC2/What is EC2.md",
-    "Web Dev/React JS",
-    "AWS/EC2",
     "Red Hat Enterprise Linux/Red Hat Enterprise Linux.md",
     "Linux/Installing tools and packages/How to install clang.md",
     "Lang Chain/What is LangChain.md",

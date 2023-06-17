@@ -1,0 +1,13 @@
+
+- Users (root, creating and switching users, groups, usermod)
+- systemd (services)
+- symlinks (inodes ...)
+- chroot (whatever that is)
+- partitions, filesystems and mounting
+- fstab
+- chmod (and permissions depending on the user)
+- mounting drives
+- locales and date setting
+- GRUB
+- UEFI
+- SWAP
